@@ -2,8 +2,8 @@
   "name": "discord-oauth",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
+"scripts": {
+    "start": "npm install && node index.js"
   },
   "dependencies": {
     "discord.js": "^14.x.x",
